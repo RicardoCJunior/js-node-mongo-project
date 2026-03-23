@@ -45,7 +45,7 @@ npm install
 
 Configure o arquivo .env na raiz do projeto:
 -
-MONGO_URL=mongodb://localhost:27017/js-node-mongo-project
+MONGO_URL=your_mongo_connection_string
 
 PORT=3000
 
